@@ -3,12 +3,18 @@ title: Embryology
 ---
 Myths around “if you antenatal training than your baby will develop smarter”
 
-With the continuous exploration of life sciences, mothers during pregnancy have started to develop new interest and knowledge about fetal education. Some mothers-to-be believe that fetal education can promote the development of the fetus' brain nervous system and is beneficial to the development of the baby's mental health, so that the baby will be born with higher adaptability, such as in music, speech, etc. However, another part of the population believes that fetal education does not have a substantial effect. In order to explore this question, one should first think about a premise - can a fetus learn?
+As people continue to explore the life sciences, mothers, during pregnancy, are beginning to develop new interests in antenatal education. Some mothers-to-be believe that antenatal education can promote the development of the fetus's brain and nervous system and make the baby more intelligent. The baby will be born with higher adaptability, such as in music and speech. To explore this question, one should consider a premise - can a fetus learn?
 
-We know that the human brain has various functions, including cognition, sensory, learning, etc., and that the nervous system that makes up the brain becomes active during prenatal development. "The fetus begins processing sensory stimuli, including painful stimuli, at the cortical level from about 25 weeks of gestation. At the 34th gestational week, the fetus is able to perceive not only complex external sounds but also to discriminate between different sounds. Fetal action planning is established by 22 weeks, and investigations with 4-dimensional ultrasound show that the complexity of fetal motor movements and behaviors increases as pregnancy progresses. The fetal learning and memory capacity is amazing. " DOI: 10.1055/s-0043-123469
+It is known to all that the human brain has various functions, including cognition, sensory, and learning, and that the nervous system that makes up the brain becomes active during prenatal development. Fetal action planning begins to be established as early as the 22nd week and continues to increase the complexity of fetal behaviour as the weeks of pregnancy increase; from the 25th week of gestation, the fetal cerebral cortex can process sensory stimuli, and after another nine weeks, the fetus can perceive and discriminate between different sounds, which all show that he fetal learning and memory capacity is extraordinary (Kadic, 2018) [1].
 
-So it is true that the fetal brain is sufficient to support its learning and motor abilities in the face of external stimuli. So can fetal education really transmit information (e.g. stimuli or sounds, etc.) to the fetus?
+Therefore, the fetal brain is sufficient to support its learning and motor abilities in the face of external stimuli. So does fetal education make the fetus smarter?
 
-Unfortunately, there is no evidence that fetal education has a direct educational impact on the fetus, but it is undeniable that pregnant women who undergo fetal education are in a better mood and that the mental health of the pregnant woman has a positive impact on the development of the fetus.
+Unfortunately, there is no evidence that antenatal education directly affects fetal intelligence. However, it is undeniable that pregnant women who undergo antenatal education are in a better mood and that the mental health of pregnant women has a positive impact on fetal development (Kwan Hong, 2020) [2].
+
+In conclusion, keeping the mother in a good mood during pregnancy is the secret to a healthier child and mother. As for how to make embryos smarter, we need more research.
+
+References:
+[1] Kadic, A. S., & Kurjak, A. (2018). Cognitive Functions of the Fetus. Kognitive Funktionen beim Feten. Ultraschall in der Medizin (Stuttgart, Germany : 1980), 39(2), 181–189. https://doi.org/10.1055/s-0043-123469
+[2] Hong, K., Hwang, H., Han, H., Chae, J., Choi, J., Jeong, Y., Lee, J., & Lee, K. J. (2021). Perspectives on antenatal education associated with pregnancy outcomes: Systematic review and meta-analysis. Women and birth: journal of the Australian College of Midwives, 34(3), 219–230. https://doi.org/10.1016/j.wombi.2020.04.002
 
 
