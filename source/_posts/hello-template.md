@@ -1,6 +1,7 @@
 ---
-title: Embryology
-subtitle: Myths around “if you antenatal training than your baby will develop smarter”
+title: Embryology 
+---
+Myths around “if you antenatal training than your baby will develop smarter”
 
 With the continuous exploration of life sciences, mothers during pregnancy have started to develop new interest and knowledge about fetal education. Some mothers-to-be believe that fetal education can promote the development of the fetus' brain nervous system and is beneficial to the development of the baby's mental health, so that the baby will be born with higher adaptability, such as in music, speech, etc. However, another part of the population believes that fetal education does not have a substantial effect. In order to explore this question, one should first think about a premise - can a fetus learn?
 
