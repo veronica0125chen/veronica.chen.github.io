@@ -11,7 +11,7 @@ Therefore, the fetal brain is sufficient to support its learning and motor abili
 
 Unfortunately, there is no evidence that antenatal education directly affects fetal intelligence. However, it is undeniable that pregnant women who undergo antenatal education are in a better mood and that the mental health of pregnant women has a positive impact on fetal development (Kwan Hong, 2020) [2].
 
-In conclusion, keeping the mother in a good mood during pregnancy is the secret to a healthier child and mother. As for how to make embryos smarter, we need more research.
+In conclusion, keeping the mother in a good mood during pregnancy is the myth of a healthier child and mother. As for how to make embryos smarter, we need more research.
 
 References:
 [1] Kadic, A. S., & Kurjak, A. (2018). Cognitive Functions of the Fetus. Kognitive Funktionen beim Feten. Ultraschall in der Medizin (Stuttgart, Germany : 1980), 39(2), 181–189. https://doi.org/10.1055/s-0043-123469
